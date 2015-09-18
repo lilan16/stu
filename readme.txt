@@ -9,6 +9,7 @@ delete branche test
 add  branch master
 add branch master
 
+<<<<<<< Updated upstream
 -----------------
 branche test
 
@@ -20,3 +21,6 @@ branch b1  add add addadd
 
 
 add git stash stash
+=======
+ 
+>>>>>>> Stashed changes   

@@ -12,4 +12,7 @@ add branch master
 branche test
 
 branch b1  add add addadd
+<<<<<<< HEAD
 
+=======
+>>>>>>> b1

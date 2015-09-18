@@ -17,3 +17,6 @@ branch b1  add add addadd
 
 =======
 >>>>>>> b1
+
+
+add git stash stash

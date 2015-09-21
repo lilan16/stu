@@ -11,6 +11,7 @@ add branch master
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 -----------------
 branche test
 
@@ -25,6 +26,9 @@ add git stash stash
 =======
  
 >>>>>>> Stashed changes   
+=======
+ 
+>>>>>>> Stashed changes
 =======
  
 >>>>>>> Stashed changes

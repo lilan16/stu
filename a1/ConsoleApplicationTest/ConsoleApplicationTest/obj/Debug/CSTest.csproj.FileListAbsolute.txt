@@ -1,0 +1,3 @@
+C:\Users\fwtlabb\Music\project\ConsoleApplicationTest\ConsoleApplicationTest\bin\Debug\ConsoleApplicationTest.exe.config
+C:\Users\fwtlabb\Music\project\ConsoleApplicationTest\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.exe
+C:\Users\fwtlabb\Music\project\ConsoleApplicationTest\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.pdb

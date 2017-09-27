@@ -1,0 +1,9 @@
+d:\users\v-shacui\documents\visual studio 2013\Projects\ConsoleApplicationTest\ConsoleApplicationTest\bin\Debug\ConsoleApplicationTest.exe.config
+D:\Users\v-shacui\Documents\Visual Studio 2013\Projects\ConsoleApplicationTest\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.csprojResolveAssemblyReference.cache
+D:\Users\v-shacui\Documents\Visual Studio 2013\Projects\ConsoleApplicationTest\ConsoleApplicationTest\bin\Debug\ConsoleApplicationTest.exe
+D:\Users\v-shacui\Documents\Visual Studio 2013\Projects\ConsoleApplicationTest\ConsoleApplicationTest\bin\Debug\ConsoleApplicationTest.pdb
+D:\Users\v-shacui\Documents\Visual Studio 2013\Projects\ConsoleApplicationTest\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.exe
+D:\Users\v-shacui\Documents\Visual Studio 2013\Projects\ConsoleApplicationTest\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.pdb
+C:\Users\fwtlabb\Music\project\ConsoleApplicationTest\ConsoleApplicationTest\bin\Debug\ConsoleApplicationTest.exe.config
+C:\Users\fwtlabb\Music\project\ConsoleApplicationTest\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.exe
+C:\Users\fwtlabb\Music\project\ConsoleApplicationTest\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.pdb
